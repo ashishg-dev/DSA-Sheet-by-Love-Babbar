@@ -11,6 +11,9 @@ Output: 1->3->4
 Input: Linked list: 1->8->3->4
 No changes in Output: 1->8->3->4
 
+Expected Time Complexity: O(n)
+Expected Space Complexity: O(1)
+
 class Node {
     int data;
     Node next;
