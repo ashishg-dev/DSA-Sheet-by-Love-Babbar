@@ -43,3 +43,5 @@ class Solution {
         
     }
 }
+
+//https://www.youtube.com/watch?v=nGNoTdav5bQ
