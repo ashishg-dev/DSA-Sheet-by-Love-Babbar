@@ -57,3 +57,5 @@ class Solution
         return head;
     }
 }
+
+//https://www.youtube.com/watch?v=nGNoTdav5bQ
