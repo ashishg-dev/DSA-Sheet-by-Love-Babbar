@@ -2,7 +2,7 @@
 
 # Linked List
 
-1. [Reverse a Linked List](#linked-list/1ReverseALinkedList.java)
+1. [Reverse a Linked List](/blob/master/linked-list/1ReverseALinkedList.java)
 2. [Linked List Group Reverse](#linked-list-group-reverse)
 3. [Detect Loop in Linked List](#detect-loop-in-linked-list)
 4. [Remove Loop in Linked List](#remove-loop-in-linked-list)
