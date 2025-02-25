@@ -12,6 +12,7 @@ Sample Input 2:
 1<->2<->3<->4<->5<->6<->7<->8<->9
 output: 8
 For this case we can see that there are total of eight triplets i.e. (2,4,9),(4,5,6),(2,6,7),(3,4,8),(1,5,9),(1,6,8),(2,5,8)and (3,5,7)
+*/
 
 public class Solution {
     public static int countTriplets(DLLNode head,int x) {
@@ -45,4 +46,4 @@ public class Solution {
         return count;
     }
 }
-*/
+
