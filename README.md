@@ -38,3 +38,5 @@
 3. [Find the “Kth” max and min element of an array](/array/03_.java)
 4. [Array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](/array/04_Sort012.java)
 5. [Move all the negative elements to one side of array](/array/05_MoveNegativeValues.java)
+6. []
+7. [Write a program to cyclically rotate an array by one](/array/07_RotateArrayByOne.java)
