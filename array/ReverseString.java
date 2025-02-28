@@ -20,7 +20,7 @@ s contains only alphabetic characters (both uppercase and lowercase).
 
 **/
 
-class Solution {
+class ReverseString {
     public static String reverseString(String s) {
                 
         char[] c = s.toCharArray();
