@@ -33,7 +33,8 @@
 29. [Binary Tree to DLL](/linked-list/26-Binary-Tree-to-DLL.java)
 
 # Array
-1. [Reverse an Array/String](/array/ReverseString.java)
-2. [Find the maximum and minimum element in an array](/array/MinAndMax.java)
-3. [Array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](/array/Sort012.java)
-4. 
+1. [Reverse an Array/String](/array/01_ReverseString.java)
+2. [Find the maximum and minimum element in an array](/array/02_MinAndMax.java)
+3. [Find the “Kth” max and min element of an array](/array/03_.java)
+4. [Array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](/array/04_Sort012.java)
+5. [Move all the negative elements to one side of array](/array/05_MoveNegativeValues.java)
