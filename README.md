@@ -34,4 +34,6 @@
 
 # Array
 1. [Reverse an Array/String](/array/ReverseString.java)
-2. [Find the maximum and minimum element in an array](/array/MinMax.java)
+2. [Find the maximum and minimum element in an array](/array/MinAndMax.java)
+3. [Array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](/array/Sort012.java)
+4. 
