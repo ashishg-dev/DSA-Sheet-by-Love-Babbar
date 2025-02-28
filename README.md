@@ -32,4 +32,6 @@
 28. [Sort the given doubly linked list where each node is at most k-indices away from its target position](/linked-list/23SortKSortedDLL.java)
 29. [Binary Tree to DLL](/linked-list/26-Binary-Tree-to-DLL.java)
 
-
+# Array
+1. [Reverse an Array/String](/array/ReverseString.java)
+2. [Find the maximum and minimum element in an array](/array/MinMax.java)
