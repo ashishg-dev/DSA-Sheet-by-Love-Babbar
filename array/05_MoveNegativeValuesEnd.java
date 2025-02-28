@@ -1,7 +1,7 @@
 /**
 
 Given an unsorted array arr[ ] having both negative and positive integers.
-The task is to place all negative elements at the end of the array without changing the order of positive elements and negative elements.
+The task is to place all negative elements at one side of the array
 Note: Don't return any array, just in-place on the array.
 
 Examples:
@@ -11,28 +11,22 @@ Explanation: By doing operations we separated the integers without changing the 
 
 **/
 
-class MoveNegativeValuesEnd {
+class MoveNegativeValues {
     public void segregateElements(int[] arr) {
-        // Your code goes here
-        int copy [] = new int[arr.length];
         int j = 0;
-        for(int i=0; i < arr.length; i++) {
-            if(arr[i] >= 0) {
-                copy[j] = arr[i];
+        for (int i = 0; i < arr.length; i++) {
+
+            // If negative number is present
+            // swap it with arr[j]
+            if (arr[i] < 0) {
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
                 j++;
             }
         }
-        
-        for(int i=0; i < arr.length; i++) {
-            if(arr[i] < 0) {
-                copy[j] = arr[i];
-                j++;
-            }
-        }
-        
-        for(int i=0; i < arr.length; i++) {
-            arr[i] = copy[i];
-        }
+
+        return arr;
         
     }
 }
