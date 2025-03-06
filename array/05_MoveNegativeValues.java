@@ -13,20 +13,25 @@ Explanation: By doing operations we separated the integers without changing the 
 
 class MoveNegativeValues {
     public void segregateElements(int[] arr) {
+        
+        // This index keeps track of the position for the next non-negative number
         int j = 0;
+        // Traverse through the array
         for (int i = 0; i < arr.length; i++) {
 
-            // If negative number is present
-            // swap it with arr[j]
+            // If a negative number is found, swap it with the element at index j
+            // j keeps the position of the last non-negative number encountered
             if (arr[i] < 0) {
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
-                j++;
+                // Increment j to move to the next position for non-negative numbers
+                j++; 
             }
         }
-
-        return arr;
+        
+        // The array is now segregated with all negative elements at the end,
+        // and non-negative elements at the front
         
     }
 }
