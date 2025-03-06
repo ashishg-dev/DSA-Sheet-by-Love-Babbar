@@ -38,6 +38,8 @@
 3. [Find the “Kth” max and min element of an array](/array/03_.java)
 4. [Array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](/array/04_Sort012.java)
 5. [Move all the negative elements to one side of array](/array/05_MoveNegativeValues.java)
-6. []
+6. [Find the Union and Intersection of the two sorted arrays](/array/06_UnionAndIntersection.java)
 7. [Write a program to cyclically rotate an array by one](/array/07_RotateArrayByOne.java)
 8. [Find Largest sum contiguous Subarray {V. IMP}](/array/08_MaxSubarraySum.java)
+9. [Minimize the maximum difference between heights {V.IMP}](/array/09_MinimizeTheHeight.java)
+10. 
