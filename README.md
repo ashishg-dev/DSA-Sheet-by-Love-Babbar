@@ -42,4 +42,6 @@
 7. [Write a program to cyclically rotate an array by one](/array/07_RotateArrayByOne.java)
 8. [Find Largest sum contiguous Subarray {V. IMP}](/array/08_MaxSubarraySum.java)
 9. [Minimize the maximum difference between heights {V.IMP}](/array/09_MinimizeTheHeight.java)
-10. 
+10. [Minimum no. of Jumps to reach end of an array](/array/10_.java)
+11. [Find duplicate in an array](/array/11_ArrayDuplicates.java)
+12. 
