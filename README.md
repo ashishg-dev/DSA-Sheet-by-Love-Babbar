@@ -49,4 +49,5 @@
 14. [Next Permutation]
 15. [Count Inversion]
 16. [Stock Buy and Sell – Max one Transaction Allowed](/array/16_Stock_buy_sell_1_trans.java)
-17. 
+17. [Two sum -Pairs with 0 Sum](/array/17_Pairs_with_0_Sum.java)
+18. 
