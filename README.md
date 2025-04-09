@@ -46,4 +46,7 @@
 11. [Find duplicate in an array](/array/11_ArrayDuplicates.java)
 12. [Merge 2 sorted arrays](/array/12_Merge2SortedArrays.java)
 13. [Merge Overlapping Intervals](/array/13_Overlapping_Intervals.java)
-14. 
+14. [Next Permutation]
+15. [Count Inversion]
+16. [Stock Buy and Sell – Max one Transaction Allowed](/array/16_Stock_buy_sell_1_trans.java)
+17. 
