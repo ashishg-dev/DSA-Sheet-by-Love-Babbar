@@ -40,8 +40,10 @@
 5. [Move all the negative elements to one side of array](/array/05_MoveNegativeValues.java)
 6. [Find the Union and Intersection of the two sorted arrays](/array/06_UnionAndIntersection.java)
 7. [Write a program to cyclically rotate an array by one](/array/07_RotateArrayByOne.java)
-8. [Find Largest sum contiguous Subarray {V. IMP}](/array/08_MaxSubarraySum.java)
+8. [Find Largest sum contiguous Subarray Kadane’s Algo {V.V.V.V.V IMP}](/array/08_MaxSubarraySum.java)
 9. [Minimize the maximum difference between heights {V.IMP}](/array/09_MinimizeTheHeight.java)
 10. [Minimum no. of Jumps to reach end of an array](/array/10_.java)
 11. [Find duplicate in an array](/array/11_ArrayDuplicates.java)
-12. 
+12. [Merge 2 sorted arrays](/array/12_Merge2SortedArrays.java)
+13. [Merge Overlapping Intervals](/array/13_Overlapping_Intervals.java)
+14. 
