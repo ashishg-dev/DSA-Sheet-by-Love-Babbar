@@ -1,7 +1,8 @@
 /*
 
 Given an unsorted linked list. The task is to remove duplicate elements from this unsorted Linked List.
-When a value appears in multiple nodes, the node which appeared first should be kept, all other duplicates are to be removed.
+When a value appears in multiple nodes, the node which appeared first should be kept,
+all other duplicates are to be removed.
 
 Input: LinkedList: 5->2->2->4
 Output: 5->2->4
