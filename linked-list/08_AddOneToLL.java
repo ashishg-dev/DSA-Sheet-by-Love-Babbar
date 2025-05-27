@@ -1,7 +1,8 @@
 /*
 
 You are given a linked list where each element in the list is a node and have an integer data.
-You need to add 1 to the number formed by concatinating all the list node numbers together and return the head of the modified linked list.
+You need to add 1 to the number formed by concatinating all the list node numbers together and
+return the head of the modified linked list.
 
 Input: LinkedList: 4->5->6
 Output: 4->5->7
