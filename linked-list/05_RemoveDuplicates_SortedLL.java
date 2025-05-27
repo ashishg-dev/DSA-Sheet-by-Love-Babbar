@@ -1,6 +1,7 @@
 /*
 
-Given a singly linked list. The task is to remove duplicates (nodes with duplicate values) from the given list (if it exists).
+Given a singly linked list. The task is to remove duplicates
+(nodes with duplicate values) from the given list (if it exists).
 
 Input:
 LinkedList: 2->2->4->5
