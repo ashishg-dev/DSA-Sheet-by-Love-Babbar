@@ -4,7 +4,7 @@
 
 1. [Reverse a Linked List](/linked-list/01_ReverseALinkedList.java)
 2. [Linked List Group Reverse](/linked-list/02_Reverse_LL_Groups.java)
-3. [Reverse a Doubly Linked List](/linked-list/19ReverseDoublyLL.java)
+3. [Reverse a Doubly Linked List](/linked-list/18_Reverse_DLL.java)
 4. [Detect Loop in Linked List](/linked-list/03_DetectLoop.java)
 5. [Remove Loop in Linked List](/linked-list/04_DeleteLoop.java)
 6. [Find Middle Element of the Linked List](/linked-list/14MiddleElementLL.java)
