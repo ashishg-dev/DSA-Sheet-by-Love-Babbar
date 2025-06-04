@@ -20,7 +20,7 @@
 16. [Palindrome Linked List](/linked-list/17IsPalindrome.java)
 17. [Check If Circular Linked List](/linked-list/15IsCircularLL.java)
 18. [Split a Linked List into Two Halves](/linked-list/16SplitCircularLL.java)
-19. [Segregate even and odd nodes LL](/linked-list/29-Segregate-even-and-odd-nodes-LL.java)
+19. [Segregate even and odd nodes LL](/linked-list/29_Segregate_even_and_odd_nodes_LL.java)
 20. [Rotate the Doubly linked list counter clockwise by P nodes](/linked-list/24RotateDLL.java)
 21. [Given a Circular Linked List. The task is to delete the given node and reverse the circular linked list](/linked-list/31-Deletion-and-Reverse-CircularLL.java)
 22. [Flatten the Link List](/linked-list/25FlatteningALL.java)
