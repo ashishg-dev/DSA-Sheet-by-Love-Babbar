@@ -7,6 +7,9 @@ Input : head : 1 -> 2 -> 4 -> 5 -> 6 -> 8 -> 9
         x = 7
 Output: (6, 1), (5,2)
 
+Time complexity: O(n)
+Space complexity: O(n)
+
 */
 
 class Solution {
